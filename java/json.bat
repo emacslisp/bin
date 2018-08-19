@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.JsonOpTest $*
+java com.dw.lib.test.JsonOpTest %*
