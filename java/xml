@@ -1,1 +1,1 @@
-java com.dw.lib.test.XMLCLI $*
+java com.dw.lib.cli.XMLCLI $*

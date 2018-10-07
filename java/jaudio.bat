@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.DictAudioCLI %*
+java com.dw.lib.cli.DictAudioCLI %*

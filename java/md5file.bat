@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.MD5FileCLI %*
+java com.dw.lib.cli.MD5FileCLI %*

@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.jsoupTest %*
+java com.dw.lib.cli.DictCLI %*

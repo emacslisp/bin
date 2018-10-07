@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.YouDaoCLI %*
+java com.dw.lib.cli.YouDaoCLI %*

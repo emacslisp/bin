@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.UUIDCLI %*
+java com.dw.lib.cli.UUIDCLI %*

@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.SHA1FileCLI %*
+java com.dw.lib.cli.SHA1FileCLI %*

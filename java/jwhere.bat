@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.WhereCLI %*
+java com.dw.lib.cli.WhereCLI %*

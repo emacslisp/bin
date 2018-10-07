@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.Base64CLI %*
+java com.dw.lib.cli.Base64CLI %*

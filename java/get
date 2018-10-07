@@ -1,1 +1,1 @@
-java com.dw.lib.test.NetUtilsCLI $*
+java com.dw.lib.cli.NetUtilsCLI $*

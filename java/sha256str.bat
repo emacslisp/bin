@@ -1,2 +1,2 @@
 @echo off
-java com.dw.lib.test.SHA256StringCLI %*
+java com.dw.lib.cli.SHA256StringCLI %*
