@@ -1,0 +1,2 @@
+DIRECTORY=`dirname $0`
+osascript $DIRECTORY/lock.scpt
