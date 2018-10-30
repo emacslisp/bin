@@ -1,2 +1,2 @@
 DIRECTORY=`dirname $0`
-osascript $DIRECTORY/shutdow.scpt
+osascript $DIRECTORY/shutdown.scpt
