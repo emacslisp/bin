@@ -1,1 +1,1 @@
-java com.dw.lib.cli.JsonOpTest $*
+java com.dw.lib.cli.JsonCLI $*
