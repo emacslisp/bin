@@ -1,0 +1,738 @@
+{
+  "nbn": [
+    {
+      "product": {
+        "code": "NBN-FTTC",
+        "priority": 17,
+        "product": "NBN FTTC",
+        "productName": "-",
+        "supplier": "nbn",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "nbn-fttc"
+    },
+    {
+      "product": {
+        "code": "NBN-WRL",
+        "priority": 17,
+        "product": "NBN Wireless",
+        "productName": "-",
+        "supplier": "nbn",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "nbn-wireless"
+    },
+    {
+      "product": {
+        "code": "NBN-FTTB",
+        "priority": 17,
+        "product": "NBN FTTB",
+        "productName": "-",
+        "supplier": "nbn",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "nbn-fttb"
+    },
+    {
+      "product": {
+        "code": "NBN-FTTP",
+        "priority": 17,
+        "product": "NBN FTTP",
+        "productName": "-",
+        "supplier": "nbn",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "nbn-fttp"
+    },
+    {
+      "product": {
+        "code": "NBN-FTTN",
+        "priority": 17,
+        "product": "NBN FTTN",
+        "productName": "-",
+        "supplier": "nbn",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "nbn-fttn"
+    },
+    {
+      "product": {
+        "code": "NBN-HFC",
+        "priority": 17,
+        "product": "NBN HFC",
+        "productName": "-",
+        "supplier": "nbn",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "nbn-hfc"
+    }
+  ],
+  "Telstra": [
+    {
+      "product": {
+        "code": "TEL-NBN",
+        "priority": 13,
+        "product": "Telstra E-Access NBN Premium 1:1",
+        "productName": "-",
+        "supplier": "Telstra",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "telstra-nbn-premium"
+    },
+    {
+      "product": {
+        "code": "TEL-MLL",
+        "priority": 8,
+        "product": "Telstra MLL",
+        "productName": "-",
+        "supplier": "Telstra",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "telstra-mll"
+    },
+    {
+      "product": {
+        "code": "TEL-FBR-STD",
+        "priority": 7,
+        "product": "Telstra Ethernet Access Standard Fibre",
+        "productName": "-",
+        "supplier": "Telstra",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "telstra-fibre-standard"
+    },
+    {
+      "product": {
+        "code": "TEL-FBR-PTY",
+        "priority": 5,
+        "product": "Telstra Ethernet Access Fibre Priority",
+        "productName": "-",
+        "supplier": "Telstra",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "telstra-fibre-priority"
+    },
+    {
+      "product": {
+        "code": "TEL-CPR",
+        "priority": 14,
+        "product": "Telstra Ethernet Access Copper Premium 1:1",
+        "productName": "-",
+        "supplier": "Telstra",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "telstra-copper-premium"
+    },
+    {
+      "product": {
+        "code": "TEL-FBR-PRE",
+        "priority": 6,
+        "product": "Telstra Ethernet Access Fibre Premium",
+        "productName": "-",
+        "supplier": "Telstra",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "telstra-fibre-premium"
+    },
+    {
+      "product": {
+        "code": "TEL-ADSL",
+        "priority": 19,
+        "product": "ADSL",
+        "productName": "Broadband",
+        "supplier": "Telstra",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "telstra-adsl"
+    },
+    {
+      "product": {
+        "code": "TEL-BDAS",
+        "priority": 15,
+        "product": "BDAS",
+        "productName": "Fibre",
+        "supplier": "Telstra",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "telstra-bdas"
+    }
+  ],
+  "Vocus": [
+    {
+      "product": {
+        "code": "VOC-EOC",
+        "priority": 10,
+        "product": "Vocus EoC",
+        "productName": "-",
+        "supplier": "Vocus",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "vocus-eoc"
+    },
+    {
+      "product": {
+        "code": "VOC-ETH",
+        "priority": 1,
+        "product": "Vocus Ethernet",
+        "productName": "-",
+        "supplier": "Vocus",
+        "pricePerformanceAttribute": "Vocus Fibre",
+        "locations": {
+          "country": "*",
+          "region": "*"
+        }
+      },
+      "id": "vocus-ethernet"
+    }
+  ],
+  "Vector": [
+    {
+      "product": {
+        "code": "VEC-DFAS",
+        "priority": 6,
+        "product": "FibreConnect (DFAS)",
+        "productName": "Fibre",
+        "supplier": "Vector",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        }
+      },
+      "id": "vector-dfas"
+    },
+    {
+      "product": {
+        "code": "VEC-ETH",
+        "priority": 12,
+        "product": "Metro Ethernet EPL/EVPL",
+        "productName": "Fibre",
+        "supplier": "Vector",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        }
+      },
+      "id": "vector-ethernet"
+    }
+  ],
+  "Ultrafast": [
+    {
+      "product": {
+        "code": "ULT-DFAS",
+        "priority": 4,
+        "product": "DFAS",
+        "productName": "Fibre",
+        "supplier": "Ultrafast",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Tauranga",
+            "Hamilton",
+            "New Plymouth",
+            "Tokoroa",
+            "Hawera",
+            "Whanganui",
+            "Te Awamutu",
+            "Cambridge"
+          ]
+        }
+      },
+      "id": "ultrafast-dfas"
+    },
+    {
+      "product": {
+        "code": "ULT-BS4",
+        "priority": 10,
+        "product": "BS4",
+        "productName": "Fibre",
+        "supplier": "Ultrafast",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Tauranga",
+            "Hamilton",
+            "New Plymouth",
+            "Tokoroa",
+            "Hawera",
+            "Whanganui",
+            "Te Awamutu",
+            "Cambridge"
+          ]
+        }
+      },
+      "id": "ultrafast-bs4"
+    },
+    {
+      "product": {
+        "code": "ULT-BS3B",
+        "priority": 17,
+        "product": "BS3b",
+        "productName": "Fibre",
+        "supplier": "Ultrafast",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Tauranga",
+            "Hamilton",
+            "New Plymouth",
+            "Tokoroa",
+            "Hawera",
+            "Whanganui",
+            "Te Awamutu",
+            "Cambridge"
+          ]
+        }
+      },
+      "id": "ultrafast-bs3b"
+    },
+    {
+      "product": {
+        "code": "ULT-BS3",
+        "priority": 21,
+        "product": "BS3",
+        "productName": "Fibre",
+        "supplier": "Ultrafast",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Tauranga",
+            "Hamilton",
+            "New Plymouth",
+            "Tokoroa",
+            "Hawera",
+            "Whanganui",
+            "Te Awamutu",
+            "Cambridge"
+          ]
+        }
+      },
+      "id": "ultrafast-bs3"
+    },
+    {
+      "product": {
+        "code": "ULT-BS2A",
+        "priority": 27,
+        "product": "BS2a",
+        "productName": "Fibre",
+        "supplier": "Ultrafast",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Hamilton",
+            "Tauranga",
+            "New Plymouth",
+            "Tokoroa",
+            "Hawera",
+            "Whanganui",
+            "Te Awamutu",
+            "Cambridge"
+          ]
+        }
+      },
+      "id": "ultrafast-bs2a"
+    }
+  ],
+  "Optus": [
+    {
+      "product": {
+        "code": "OPT-FBR",
+        "priority": 9,
+        "product": "Optus EWAN Premium Fibre",
+        "productName": "-",
+        "supplier": "Optus",
+        "pricePerformanceAttribute": "Premium",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "optus-fibre"
+    },
+    {
+      "product": {
+        "code": "OPT-CPR",
+        "priority": 16,
+        "product": "Optus EWAN Premium Copper",
+        "productName": "-",
+        "supplier": "Optus",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "optus-eoc"
+    }
+  ],
+  "M2": [
+    {
+      "product": {
+        "code": "M2-EOC",
+        "priority": 10,
+        "product": "M2 EoC",
+        "productName": "-",
+        "supplier": "M2",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "AU",
+          "region": "*"
+        }
+      },
+      "id": "M2-eoc"
+    }
+  ],
+  "Enable": [
+    {
+      "product": {
+        "code": "ENA-DFAS",
+        "priority": 2,
+        "product": "DFAS",
+        "productName": "Fibre",
+        "supplier": "Enable",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Christchurch",
+            "Rangiora"
+          ]
+        }
+      },
+      "id": "enable-dfas"
+    },
+    {
+      "product": {
+        "code": "ENA-BS4",
+        "priority": 8,
+        "product": "BS4",
+        "productName": "Fibre",
+        "supplier": "Enable",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Christchurch",
+            "Rangiora"
+          ]
+        }
+      },
+      "id": "enable-bs4"
+    },
+    {
+      "product": {
+        "code": "ENA-BS3B",
+        "priority": 15,
+        "product": "BS3b",
+        "productName": "Fibre",
+        "supplier": "Enable",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Christchurch",
+            "Rangiora"
+          ]
+        }
+      },
+      "id": "enable-bs3b"
+    },
+    {
+      "product": {
+        "code": "ENA-BS3",
+        "priority": 19,
+        "product": "BS3",
+        "productName": "Fibre",
+        "supplier": "Enable",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Christchurch",
+            "Rangiora"
+          ]
+        }
+      },
+      "id": "enable-bs3"
+    },
+    {
+      "product": {
+        "code": "ENA-BS2A",
+        "priority": 25,
+        "product": "BS2a",
+        "productName": "Fibre",
+        "supplier": "Enable",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Christchurch",
+            "Rangiora"
+          ]
+        }
+      },
+      "id": "enable-bs2a"
+    }
+  ],
+  "Citylink": [
+    {
+      "product": {
+        "code": "CIT-FBR",
+        "priority": 7,
+        "product": "FibreLINK",
+        "productName": "Fibre",
+        "supplier": "Citylink",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Auckland",
+            "Wellington"
+          ]
+        }
+      },
+      "id": "citylink-fibrelink"
+    },
+    {
+      "product": {
+        "code": "CIT-ETH",
+        "priority": 13,
+        "product": "Ethernet",
+        "productName": "Fibre",
+        "supplier": "Citylink",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": [
+            "Auckland",
+            "Wellington"
+          ]
+        }
+      },
+      "id": "citylink-Ethernet"
+    }
+  ],
+  "Chorus": [
+    {
+      "product": {
+        "code": "CHO-VDSL",
+        "priority": 29,
+        "product": "VDSL",
+        "productName": "Broadband",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        },
+        "feasibilityType": "UBA MANUAL"
+      },
+      "id": "chorus-vdsl"
+    },
+    {
+      "product": {
+        "code": "CHO-HSNS-PRE",
+        "priority": 14,
+        "product": "HSNS-Premium",
+        "productName": "Fibre Premium",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        },
+        "feasibilityType": "FIBRE PREMIUM"
+      },
+      "id": "chorus-hsns-premium"
+    },
+    {
+      "product": {
+        "code": "CHO-HSNS-FBR",
+        "priority": 23,
+        "product": "HSNS-Lite-fibre",
+        "productName": "Fibre Lite",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        },
+        "feasibilityType": "FIBRE LITE"
+      },
+      "id": "chorus-hsns-lite-fibre"
+    },
+    {
+      "product": {
+        "code": "CHO-HSNS-CPR",
+        "priority": 24,
+        "product": "HSNS-Lite-Copper",
+        "productName": "Copper",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        },
+        "feasibilityType": "COPPER"
+      },
+      "id": "chorus-hsns-lite-copper"
+    },
+    {
+      "product": {
+        "code": "CHO-EUBA",
+        "priority": 30,
+        "product": "EUBA 0kbps CIR",
+        "productName": "Broadband",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        },
+        "feasibilityType": "UBA MANUAL"
+      },
+      "id": "chorus-euba0"
+    },
+    {
+      "product": {
+        "code": "CHO-DFAS",
+        "priority": 5,
+        "product": "DFAS",
+        "productName": "Fibre",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        }
+      },
+      "id": "chorus-dfas"
+    },
+    {
+      "product": {
+        "code": "CHO-BS4",
+        "priority": 11,
+        "product": "Bitstream 4",
+        "productName": "Fibre",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Enhanced",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        }
+      },
+      "id": "chorus-bs4"
+    },
+    {
+      "product": {
+        "code": "CHO-BS3A",
+        "priority": 18,
+        "product": "Bitstream 3a",
+        "productName": "Fibre",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        }
+      },
+      "id": "chorus-bs3a"
+    },
+    {
+      "product": {
+        "code": "CHO-BS3",
+        "priority": 22,
+        "product": "Bitstream 3",
+        "productName": "Fibre",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Standard",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        }
+      },
+      "id": "chorus-bs3"
+    },
+    {
+      "product": {
+        "code": "CHO-BS2",
+        "priority": 28,
+        "product": "Bitstream 2",
+        "productName": "Fibre",
+        "supplier": "Chorus",
+        "pricePerformanceAttribute": "Basic",
+        "locations": {
+          "country": "NZ",
+          "region": "*"
+        }
+      },
+      "id": "chorus-bs2"
+    }
+  ]
+}
