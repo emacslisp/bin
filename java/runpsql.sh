@@ -1,5 +1,9 @@
 #!/bin/bash
+# Copyright (c) 2012-2018, EnterpriseDB Corporation.  All rights reserved
 
+# PostgreSQL psql runner script for OS X
+
+# Check the command line
 if [ $# -ne 0 -a $# -ne 1 ]; 
 then
     echo "Usage: $0 [wait]"
@@ -38,7 +42,7 @@ then
     USERNAME="postgres"
 fi
 
-"/Library/PostgreSQL/10/bin/psql" -h $SERVER -p $PORT -U $USERNAME $DATABASE
+"psql" -h $SERVER -p $PORT -U $USERNAME $DATABASE
 RET=$?
 
 if [ "$RET" != "0" ];
