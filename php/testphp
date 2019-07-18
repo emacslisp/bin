@@ -1,0 +1,4 @@
+SCRIPT_PATH=$(dirname `which $0`)
+
+php $SCRIPT_PATH/test.php
+
