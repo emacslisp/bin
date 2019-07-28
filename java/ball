@@ -1,1 +1,1 @@
-java com.dw.lib.cli.BallCLI $*
+java com.dw.lib.cli.BallCLI "$@"

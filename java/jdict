@@ -1,1 +1,1 @@
-java com.dw.lib.cli.DictCLI $*
+java com.dw.lib.cli.DictCLI "$@"
