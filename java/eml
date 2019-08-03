@@ -1,1 +1,1 @@
-java com.dw.lib.cli.EMLCLI $*
+java com.dw.lib.cli.EMLCLI "$@"
