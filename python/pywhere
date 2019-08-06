@@ -1,0 +1,2 @@
+SCRIPT_PATH=$(dirname `which $0`)
+python3 $SCRIPT_PATH/pywhere.py "$@"

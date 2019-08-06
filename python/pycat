@@ -1,2 +1,2 @@
 SCRIPT_PATH=$(dirname `which $0`)
-python3 $SCRIPT_PATH/test.py
+python3 $SCRIPT_PATH/pycat.py "$@"
