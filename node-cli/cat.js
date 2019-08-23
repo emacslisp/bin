@@ -14,10 +14,7 @@ async function catCLI() {
         let fileName = argument[2];
         console.log(fileHelper.fileToString(fileName));
     } catch(err) {
-
-    }
-    finally {
-
+        console.log(err);
     }
 
     process.exit();
