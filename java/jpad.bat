@@ -1,2 +1,2 @@
 @echo off
-java com.dw.notepad2.Notepad2 %*
+start /b java com.dw.notepad2.Notepad2
