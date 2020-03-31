@@ -1,0 +1,4 @@
+export Dict_UserName="xxxx"
+export Dict_Password="yyyy"
+export Dict_PATH="dict.txt"
+java com.dw.lib.cli.GetDictCLI "$@"
