@@ -1,16 +1,18 @@
-import sys
+import MainLibPython
 
 def main():
-    devArray = sys.argv
+
+    optionHelper = MainLibPython.OptionHelper()
+    devArray = optionHelper.getOptionList()
 
     if len(devArray) != 2:
         print('pycat <file>')
         return
 
     FileName = devArray[1]
-    with open(FileName) as f:
-        ewText=f.read()
-        print(ewText)
+    
+    fileHelper = MainLibPython.FileHelper()
 
+    print(fileHelper.fileToString(FileName))
 
 main()
