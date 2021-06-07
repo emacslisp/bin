@@ -1,0 +1,14 @@
+~/tool/java/Eclipse.app/Contents/MacOS/eclipse -data ~/ec/java2 &
+sleep 10
+~/tool/java/Eclipse.app/Contents/MacOS/eclipse -data ~/ec/spring-framework2 &
+sleep 10
+~/tool/java/Eclipse.app/Contents/MacOS/eclipse -data ~/ec/tomcat &
+sleep 10
+~/tool/java/Eclipse.app/Contents/MacOS/eclipse -data ~/ec/activemq &
+sleep 10
+~/tool/java/Eclipse.app/Contents/MacOS/eclipse -data ~/ec/maven &
+sleep 10
+~/tool/java/Eclipse.app/Contents/MacOS/eclipse -data ~/ec/hadoop &
+sleep 10
+~/tool/php/Eclipse.app/Contents/MacOS/eclipse -data ~/ec/php &
+
