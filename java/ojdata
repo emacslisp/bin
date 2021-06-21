@@ -1,1 +1,1 @@
-java com.dw.lib.cli.OJDataCLI $*
+java com.dw.lib.cli.OJDataCLI ~/dev/database/oj/ojprod.config $*
